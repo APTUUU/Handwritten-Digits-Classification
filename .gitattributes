@@ -1,0 +1,6 @@
+MNIST/digit_xtrain.csv filter=lfs diff=lfs merge=lfs -text
+MNIST/digit_ytest.csv filter=lfs diff=lfs merge=lfs -text
+MNIST/digit_ytrain.csv filter=lfs diff=lfs merge=lfs -text
+MNIST/load_xtest.csv filter=lfs diff=lfs merge=lfs -text
+MNIST/load_ytest.csv filter=lfs diff=lfs merge=lfs -text
+MNIST/digit_xtest.csv filter=lfs diff=lfs merge=lfs -text
